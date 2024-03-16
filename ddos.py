@@ -36,7 +36,7 @@ mbanner = r"""
 
 def init():
     System.Size(140, 40)
-    System.Title(" DDOS by PhcNGuyenz")
+    System.Title("DDOS by PhcNGuyenz")
     Cursor.HideCursor()
 
 def stage(text, symbol = '...'):
